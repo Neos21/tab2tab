@@ -9,7 +9,7 @@
   else {  // Browser Globals
     global.tab2tab = factory();
   }
-})(this, () => {  // TODO : function() ？
+})(this, () => {
   /**
    * タブ譜の1行を構築する
    * 

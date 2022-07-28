@@ -1,0 +1,28 @@
+{
+  "name": "@neos21/tab2tab",
+  "version": "0.0.0",
+  "description": "Tab To Tab",
+  "main": "index.js",
+  "bin": {
+    "tab2tab": "bin.js"
+  },
+  "scripts": {
+    "start": "node ./bin.js",
+    "build": "node ./scripts/build.js",
+    "test" : "node ./tests/node.js"
+  },
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/tab2tab#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/tab2tab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/tab2tab/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  }
+}
