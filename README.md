@@ -1,6 +1,6 @@
 # @neos21/tab2tab : Tab2Tab
 
-[![NPM Version](https://img.shields.io/npm/v/@neos21/tab2tab.svg)](https://www.npmjs.com/package/@neos21/tab2tab)
+[![NPM Version](https://img.shields.io/npm/v/@neos21/tab2tab.svg)](https://www.npmjs.com/package/@neos21/tab2tab) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/tab2tab?label=github)](https://github.com/Neos21/tab2tab/packages/1565449)
 
 タブ文字で区切られた「ギタータブ譜」のテキストを、ハイフンで整形したタブ譜に変換する。
 
